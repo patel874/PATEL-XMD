@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+MALAKAZ+MD;🔥+still+under+maintance+coming+soon;💻+best+bot+by+malakaz;🚀+Next-malakaz+md+best+bot+ever+MALAKAZ+MD+BOT💻" alt="typingred Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+PATEL+MD;🔥+still+under+maintance+coming+soon;💻+best+bot+by+patel;🚀+Next-PATEL+md+best+bot+ever+PATEL+MD+BOT💻" alt="typingred Animation">
 </h1>
 
 <!-- Profile Card -->
