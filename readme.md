@@ -1,30 +1,45 @@
-<div align="center">
-  <h1>🚀 **PATEL XMD** 🚀</h1>
-  <p><b>A Powerful WhatsApp Bot 🤖</b></p>
-  <p>Made with 💻 by <b>PATEL-XMD</b></p>
-  <p>👋 Owner: +254114498349</p>
-</div>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https:                                                    
+</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=FF0000&background=000000&center=true&vCenter=true&width=600&lines=🚀+PATEL+XMD;🔥+WhatsApp+Bot;💻+By+PATEL+XMD+Team" alt="Typing Animation">
+</h1>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https:                                                         
+</p>
 
-## 📚 **Features**
-- 🤖 *WhatsApp Automation*
-- 📢 *Custom Commands*
-- 🔔 *Notifications*
-- 💬 *Chat Management*
+---
+                                        
+                              
+Click the button below to quickly generate your WhatsApp session ID:
+<p align="center">
+  <a href="https://patel-xmd.online/scanner" target="_blank">
+    <img src="https:                                                                                                          
+  </a>
+</p>
 
-## 🚀 **Setup**
-1. `git clone https:                                    
-2. `npm install`
-3. `node index.js`
+                                  
+Before deployment, configure your bot:
+- **Option A:** Edit `config.env` file
+- **Option B:** Use environment variables on your hosting platform
 
-                    
-- `/help` - Show menu
-- `/start` - Start bot
-- `/info` - Bot info
-- `/owner` - Contact owner
+                                       
+Deploy the bot on your preferred platform.
+<p align="center">
+  <a href="https://pro.patelxmd.co.ke" target="_blank">
+    <img src="https:                                                                                                           
+  </a>
+  <a href="https://patelxmd.co.ke/Deploy" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_HEROKU-000000?style=for-the-badge&color=FF00FF" width="200" height="45"/>
+  </a>
+</p>
 
-## 💡 **Coming soon**
-- More automation 🔥
+## 🌐 **Connect with us**
+- WhatsApp Channel: [PATEL XMD CHANNEL](https://whatsapp.com/channel/0029VbBHoAmFsn0WT3rhjh1b)
+- GitHub: [@patel874](https://github.com/patel874)
+- WhatsApp: [+254114498349](https://wa.me/254114498349)
 
-<div align="center">
-  <p>📍 *CYBER NEXUS TECH*</p>
-</div>
+## 📜 **License**
+MIT License © PATEL XMD
