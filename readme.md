@@ -1,26 +1,30 @@
-# PATEL-XMD 🤖
-A WhatsApp bot made with 💻 by PATEL-XMD  
-👋 Owner: +254114498349  
+<div align="center">
+  <h1>🚀 **PATEL XMD** 🚀</h1>
+  <p><b>A Powerful WhatsApp Bot 🤖</b></p>
+  <p>Made with 💻 by <b>PATEL-XMD</b></p>
+  <p>👋 Owner: +254114498349</p>
+</div>
 
-## 📚 Features
-- 🤖 **WhatsApp automation**
-- 📢 **Custom commands**
-- 🔔 **Notifications**
-- 💬 **Chat management**
+## 📚 **Features**
+- 🤖 *WhatsApp Automation*
+- 📢 *Custom Commands*
+- 🔔 *Notifications*
+- 💬 *Chat Management*
 
-## 🚀 Setup
-1. Clone: `git clone https:                                    
-2. Install: `npm install`
-3. Start: `node index.js`
+## 🚀 **Setup**
+1. `git clone https:                                    
+2. `npm install`
+3. `node index.js`
 
-                
+                    
 - `/help` - Show menu
 - `/start` - Start bot
 - `/info` - Bot info
 - `/owner` - Contact owner
 
-## 💡 Coming soon
-- More automation features 🚀
+## 💡 **Coming soon**
+- More automation 🔥
 
-📍 *CYBER NEXUS TECH*
-
+<div align="center">
+  <p>📍 *CYBER NEXUS TECH*</p>
+</div>
