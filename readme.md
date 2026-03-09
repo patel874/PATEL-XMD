@@ -1,27 +1,24 @@
-<!-- Glowing Header -->
-<p align="center">
-  <img src="https:                                                    
-</p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=FF0000&background=000000&center=true&vCenter=true&width=600&lines=🚀+PATEL+XMD;🔥+WhatsApp+Bot;💻+By+PATEL+XMD+Team" alt="Typing Animation">
+  <img src="https:                                                                                                                                                                                                                     
 </h1>
 
 <p align="center">
-  <a href="https:                                         
-    <img src="https://img.shields.io/badge/📹_Watch_PATEL_XMD_Video-FF0000?style=for-the-badge&logo=youtube" width="220" height="40"/>
-  </a>
+  <img src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg" width="350"/>
 </p>
 
-## 📌 **How to Connect PATEL XMD Bot**
-- Join [PATEL XMD CHANNEL](https://whatsapp.com/channel/0029VbBHoAmFsn0WT3rhjh1b)
-- **Pairing**:
-  1. Click 👉 [Pair Code](https://patel-xmd.online/pair)
-  2. Scan QR with WhatsApp
-- **Commands**:
-  - `/help` - Show menu
-  - `/start` - Start bot
-  - `/info` - Bot info
-  - `/owner` - Contact owner
-
 <p align="center">
-  <img src="https://files.catbox.moe/bkuj17.jpg" width="50%"
+  Professional WhatsApp Automation Bot with Multi Pairing Servers and Easy Deployment
+</p>
+
+---
+# 📊 Repository Stats
+<p align="center">
+  <img src="https:                                                                                         
+  <img src="https://img.shields.io/github/forks/PATEL-XMD/patel-xmd-bot?style=for-the-badge&color=orange"/>
+</p>
+
+## 👨‍💻 Owner
+<p align="center">
+  <img src="https://i.ibb.co/7J8Yw1t/patel-xmd.jpg" width="150"/> 
+  <br>PATEL XMD 😎
+</p>
